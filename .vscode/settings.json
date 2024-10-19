@@ -1,0 +1,10 @@
+{
+    "gitlens.codeLens.enabled": false,
+    "gitlens.statusBar.enabled": false,
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.hovers.enabled": false,
+    "gitlens.menus": false,
+    "gitlens.terminalLinks.showDetailsView": false,
+    "gitlens.terminalLinks.enabled": false
+}
